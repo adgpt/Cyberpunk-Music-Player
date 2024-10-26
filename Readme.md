@@ -1,7 +1,7 @@
 
 # CyberPunk Music Player 🎶
 
-![CyberPunk Music Player Screenshot](./path/to/image.png)
+![CyberPunk Music Player Screenshot](https://github.com/adgpt/Cyberpunk-Music-Player/blob/main/src/resources/CyberPunkMusicPlayerScreenshot.jpg?raw=true)
 
 ## Description
 
